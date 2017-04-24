@@ -3,3 +3,6 @@ out/
 
 # config directory
 .idea/
+
+# idea project file
+java8demo.iml
