@@ -1,7 +1,7 @@
-package service.impl;
+package main.service.impl;
 
-import entity.Apple;
-import service.ApplePredicate;
+import main.entity.Apple;
+import main.service.ApplePredicate;
 
 /**
  * Created by shawn on 17-4-19.

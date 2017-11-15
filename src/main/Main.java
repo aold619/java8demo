@@ -1,7 +1,8 @@
-import entity.Apple;
-import service.ApplePredicate;
-import service.Predicate;
-import service.impl.AppleGreenColorWeightPredicate;
+package main;
+
+import main.entity.Apple;
+import main.service.ApplePredicate;
+import main.service.Predicate;
 
 import java.util.ArrayList;
 import java.util.List;

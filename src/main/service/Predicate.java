@@ -1,4 +1,4 @@
-package service;
+package main.service;
 
 /**
  * Created by shawn on 17-4-19.

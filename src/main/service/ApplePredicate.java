@@ -1,6 +1,6 @@
-package service;
+package main.service;
 
-import entity.Apple;
+import main.entity.Apple;
 
 /**
  * Created by shawn on 17-4-19.
