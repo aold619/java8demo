@@ -1,4 +1,4 @@
-package main.multiProcess;
+package main.multiProcess.chap1;
 
 import java.io.*;
 import java.net.URLDecoder;

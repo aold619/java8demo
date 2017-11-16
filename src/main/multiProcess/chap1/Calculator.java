@@ -1,4 +1,4 @@
-package main.multiProcess;
+package main.multiProcess.chap1;
 
 public class Calculator implements Runnable {
     private int number;
