@@ -1,2 +1,4 @@
 # java8demo
-learning java8
+
+Some code from 「Java8InAction」.
+Live and learn.
