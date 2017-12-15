@@ -1,4 +1,3 @@
-# java8demo
+# Live and learn
 
 Some code from 「Java8InAction」.\
-Live and learn.
