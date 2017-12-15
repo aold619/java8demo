@@ -1,8 +1,8 @@
-package main;
+package main.chapter1;
 
-import main.entity.Apple;
-import main.service.ApplePredicate;
-import main.service.Predicate;
+import main.chapter1.entity.Apple;
+import main.chapter1.service.ApplePredicate;
+import main.chapter1.service.Predicate;
 
 import java.util.ArrayList;
 import java.util.List;

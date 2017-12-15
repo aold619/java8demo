@@ -1,6 +1,6 @@
-package main.service;
+package main.chapter1.service;
 
-import main.entity.Apple;
+import main.chapter1.entity.Apple;
 
 /**
  * Created by shawn on 17-4-19.

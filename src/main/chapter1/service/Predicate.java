@@ -1,4 +1,4 @@
-package main.service;
+package main.chapter1.service;
 
 /**
  * Created by shawn on 17-4-19.
